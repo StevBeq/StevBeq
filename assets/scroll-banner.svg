@@ -1,20 +1,20 @@
-<svg width="100%" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="scrolling intro banner">
+<svg width="100%" height="64" viewBox="0 0 720 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="scrolling intro banner">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#581c87"/>
       <stop offset="100%" stop-color="#3b0764"/>
     </linearGradient>
     <clipPath id="clip">
-      <rect x="0" y="0" width="900" height="70" rx="10"/>
+      <rect x="0" y="0" width="720" height="64" rx="10"/>
     </clipPath>
   </defs>
   <g clip-path="url(#clip)">
-    <rect x="0" y="0" width="900" height="70" fill="url(#bg)"/>
-    <rect x="6" y="6" width="888" height="58" rx="6" fill="none" stroke="#c084fc" stroke-opacity="0.35" stroke-width="1"/>
+    <rect x="0" y="0" width="720" height="64" fill="url(#bg)"/>
+    <rect x="6" y="6" width="708" height="52" rx="6" fill="none" stroke="#c084fc" stroke-opacity="0.35" stroke-width="1"/>
     <g font-family="'Fira Code', 'Courier New', monospace" font-size="20" fill="#e9d5ff">
-      <text x="0" y="42.0">
-        <tspan>STEVEN ARNALDO SETIAWAN  //  S1 SISTEM INFORMASI @ UKDW (SEM.5)  //  D3 SISTEM INFORMASI @ UTY (LULUS)  //  FULLSTACK MOBILE DEVELOPER  //  WEB DEVELOPER  //  STEVEN ARNALDO SETIAWAN  //  S1 SISTEM INFORMASI @ UKDW (SEM.5)  //  D3 SISTEM INFORMASI @ UTY (LULUS)  //  FULLSTACK MOBILE DEVELOPER  //  WEB DEVELOPER  //  </tspan>
-        <animate attributeName="x" from="0" to="-1972" dur="32s" repeatCount="indefinite"/>
+      <text x="0" y="39.0">
+        <tspan>STEVEN ARNALDO SETIAWAN   //   FULLSTACK WEB MOBILE DEVELOPER   //   STEVEN ARNALDO SETIAWAN   //   FULLSTACK WEB MOBILE DEVELOPER   //   </tspan>
+        <animate attributeName="x" from="0" to="-1066" dur="19s" repeatCount="indefinite"/>
       </text>
     </g>
   </g>
