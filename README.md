@@ -4,42 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=581c87,3b0764&height=180&section=header&text=STEVEN%20ARNALDO&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Mobile%20and%20Web%20Developer&descFontSize=18&descColor=c084fc&descAlignY=60" width="100%"/>
 </p>
 
-<pre align="center">
-                     .::--===++++===--::.                     
-                .:+shmNNNNNNNNNNNNNNNNNNmdhs+:.                
-             .+ydNNNNNNNNNNNNNNNNNNNNNNNNNNNNdy+.             
-           -sdNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNds-           
-         .smNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNms.         
-        -hNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNh-        
-       -dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNd-       
-      .dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNd.      
-      +NNNNNNNNNNmddhhyysso++++oosyyhddmNNNNNNNNNNNNNNN+      
-      hNNNNNNhs+/-.                    .-/+shNNNNNNNNNNh      
-      mNNNNy:                                :yNNNNNNNm      
-      mNNNs.     .:/++++++++/-.    .:/+++++++/:. .sNNNNm      
-      dNNy    -+ydmmNNNNNNNNmds-  -sdmNNNNNNNNmdy+- yNNd      
-      yNN-   +dNNNmmddddmmNNNNNh  hNNNNmmddddmmNNNd+ -NNy      
-      /NN.  :NNmdysoo+++oosydNNm  mNNdysoo+++oosydNN: .NN/      
-       hN-  yNNh-          -hNNy  yNNh-          -hNNy  -Nh      
-       :m:  +NNNs:        :sNNN+  +NNNs:        :sNNN+  :m:      
-        +-   +hNNmddhhddmmNNh+     +hNNmddhhddmmNNh+   -+       
-             .:+syhddddhyso+:.     .:+syhddddhyso+:.          
-                 ..------..           ..------..              
-                    -::.                 .::-                 
-                   +dddds.             .sdddd+                
-                    -++-     .-::-.     -++-                  
-                           .smNNNNms.                         
-                            -+ydy+-                           
-                              ..                              
-                           .::::::.                           
-                        -+ydmmmmmmdy+-                        
-                    .:+ydNNNNNNNNNNNNdy+:.                    
-                 .-shmNNNNNNNNNNNNNNNNNNmhs-.                 
-              -+ydNNNNNNNNNNNNNNNNNNNNNNNNNNdy+-              
-           .+hNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNh+.           
-         -smNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNms-         
-</pre>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Fullstack+Mobile+Developer;Web+Developer;Information+Systems+Student;Crafting+Modern+Applications" alt="Typing SVG" />
 </p>
